@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello MPI";
+        return "Hello Mangementul Proiectelor Informatice ID 2023";
     }
 }
